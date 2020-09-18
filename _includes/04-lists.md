@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* foo 1
+* bar 2
+  * egg 2a
+  * ham 2b
